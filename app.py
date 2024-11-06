@@ -31,7 +31,7 @@ llm = ChatOpenAI(
 )
 token_encoder = tiktoken.get_encoding('cl100k_base')
 
-INPUT_DIR = r"C:\Users\LENOVO\OneDrive - \Desktop\administrator\output\20240706-082527\artifacts"
+INPUT_DIR = r"C:\Users\Administrator\Documents - \Desktop\administrator\output\20240706-082527\artifacts"
 COMMUNITY_REPORT_TABLE = "create_final_community_reports.parquet"
 ENTITY_TABLE = "create_final_nodes.parquet"
 ENTITY_EMBEDDING_TABLE = "create_final_entities.parquet"

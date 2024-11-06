@@ -14,8 +14,6 @@ Welcome to the Chainlit-based chatbot project! This project leverages cutting-ed
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Configuration](#configuration)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## 🔧 Installation
 

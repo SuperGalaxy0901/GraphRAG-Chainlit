@@ -28,9 +28,7 @@ Follow these steps to set up the project on your local machine:
    ```
 
 2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
+   - Make sure you have Python installed on your system. This project requires Python 3.7 or higher.
 
 3. **Set up Environment Variables**
    - Ensure your API keys and necessary credentials are correctly set in your environment variables. You might need `OPENAI_API_KEY`, etc.
